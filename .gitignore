@@ -1,0 +1,4 @@
+.idea/*
+MapReduceWordCount/.idea/*
+MapReduceWordCount/*.iml
+MapReduceWordCount/target/maven-status/*
